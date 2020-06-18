@@ -14,6 +14,8 @@ You can __redact__ or __delete__ existing notes.
 You can __see the list of all notes__ and __see any note in details__
 
 Program interacts with user in a dialog format, recieving commands from keyboard. 
+
+Write me your thoughts about the code and my app. I am beginner and any code-review is very useful.
 ____
 ## Screenshots
 ![Main menu](https://i.imgur.com/1eyNSYv.png "Main menu")
